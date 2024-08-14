@@ -1,4 +1,4 @@
-## Hello World [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgw0124&count_bg=%232ACEEF&title_bg=%23D9F3F1&icon=&icon_color=%23E7E7E7&title=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hello World
 
 
 ### 🚵‍♀️ Activities
